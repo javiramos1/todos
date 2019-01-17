@@ -1,0 +1,6 @@
+{
+  "appId": "ie.irishlife.todos",
+  "appName": "todos",
+  "bundledWebRuntime": false,
+  "webDir": "www"
+}
